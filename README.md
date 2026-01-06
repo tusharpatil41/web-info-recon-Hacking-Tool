@@ -48,5 +48,6 @@ git clone [https://github.com/tusharpatil41/Hacking-Tools.git](https://github.co
 
 
 ⚠️ Disclaimer
-This tool is for educational purposes only. Do not use it on targets without prior authorization. The author is not responsible for any misuse of this tool.
+This tool is for educational purposes only. Do not use it on targets without prior authorization. The author is
+ not responsible for any misuse of this tool.
 
