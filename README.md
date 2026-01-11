@@ -66,3 +66,9 @@ Offensive Security Researcher & Ethical Hacking Tool Developer
 This tool is developed strictly for educational and ethical security testing purposes.
 Do NOT use this tool on any target without explicit prior authorization.
 The author is not responsible for any misuse or legal consequences arising from the use of this tool.
+````
+
+## 📸 Screenshot
+
+<img width="872" height="882" alt="image" src="https://github.com/user-attachments/assets/87012c20-49bc-4fce-bfe4-681fa244a352" />
+
