@@ -32,12 +32,12 @@ including infrastructure details, server location, and security posture.
 ### 1️⃣ Requirements
 - Python 3.x
 - `requests` library
+- pip install requests
 
-```bash
-pip install requests
 
 ### 2️⃣ Setup (Termux or PC)
 
+```bash
 # Clone the repository
 git clone https://github.com/tusharpatil41/Hacking-Tools.git
 
@@ -51,20 +51,17 @@ python info.py
 
 📊 Technical Specifications
 Language: Python 3
-
 Dependencies: requests, socket, urllib
-
 Data Source: IP-API (real-time geolocation intelligence)
-
 Portability: Fully compatible with
-
 Windows / Linux
-
 Android (Termux)
+
 
 👤 Author
 Tushar Patil
 Offensive Security Researcher & Ethical Hacking Tool Developer
+
 
 ⚠️ Disclaimer
 This tool is developed strictly for educational and ethical security testing purposes.
