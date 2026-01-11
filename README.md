@@ -35,9 +35,9 @@ including infrastructure details, server location, and security posture.
 
 ```bash
 pip install requests
-2️⃣ Setup (Termux or PC)
-bash
-Copy code
+
+### 2️⃣ Setup (Termux or PC)
+
 # Clone the repository
 git clone https://github.com/tusharpatil41/Hacking-Tools.git
 
@@ -47,6 +47,8 @@ cd web-recon
 
 # Run the tool
 python info.py
+
+
 📊 Technical Specifications
 Language: Python 3
 
