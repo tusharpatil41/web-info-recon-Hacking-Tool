@@ -2,7 +2,6 @@
 
 **WEB RECON** is a powerful **Python-based security reconnaissance tool** designed for the
 **initial information-gathering phase of a penetration test**.
-
 It automates the process of collecting critical intelligence about a target website,
 including infrastructure details, server location, and security posture.
 
